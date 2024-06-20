@@ -1,2 +1,0 @@
-# EMall
-SJTU_2024_Spring_SE3330_Group15_Project
